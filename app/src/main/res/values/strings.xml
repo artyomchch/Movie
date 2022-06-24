@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="request_error">request error</string>
+    <string name="load_error">load error</string>
+    <string name="try_again">Try again</string>
+    <string name="title">Venom Let There Be Carnage</string>
+    <string name="description">The story of the real-life N.B.A. superstar Giannis Antetokounmpo is told with heartfelt charm in this endearing Disney+ biopic.</string>
+</resources>
